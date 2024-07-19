@@ -1,0 +1,263 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 500px;
+    width: 100%;
+    border: 3px solid purple;
+    background-color: plum;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.ig {
+    display: inline-block;
+}
+
+img {
+    height: 360px;
+    width: 520px;
+    border-radius: 10px;
+    margin-top: -304px;
+    margin-left: 873px;
+    margin-right: 12px;
+
+}
+
+.con {
+    /* border: 3px solid black; */
+    width: 391px;
+    height: 251px;
+    margin-top: 32px;
+    margin-left: 65px;
+    margin-right: 37px;
+    font-size: 24px;
+}
+
+.section {
+    height: 602px;
+    width: 100%;
+    /* border: 3px solid purple;
+    background-color: plum; */
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    display: flex;
+}
+
+.card {
+    width: 100%;
+    /* border: 3px solid black ; */
+    height: 450px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 10%;
+}
+
+.s1 {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.s2 {
+    display: flex;
+}
+
+.c1 {
+    width: 200px;
+    border: 3px solid rgb(78, 1, 78);
+    background-color: purple;
+    height: 200px;
+    border-radius: 2px;
+    display: inline-block;
+    margin: auto;
+}
+
+.c2 {
+    width: 200px;
+    border: 3px solid rgb(78, 1, 78);
+    background-color: purple;
+    height: 200px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.c3 {
+    width: 200px;
+    border: 3px solid rgb(78, 1, 78);
+    background-color: purple;
+    height: 200px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.c4 {
+    width: 200px;
+    border: 3px solid rgb(78, 1, 78);
+    background-color: purple;
+    height: 200px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.c5 {
+    width: 200px;
+    border: 3px solid rgb(78, 1, 78);
+    background-color: purple;
+    height: 200px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.c6 {
+
+    width: 200px;
+    border: 3px solid rgb(78, 1, 78);
+    background-color: purple;
+    height: 200px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.footer {
+    height: 425px;
+    width: 100%;
+    border: 3px solid purple;
+    background-color: plum;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 35px;
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+}
+
+.left {
+    width: 60%;
+    /* border: 2px ; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.right {
+    display: flex;
+    /* border: 2px solid royalblue; */
+    width: 20%;
+    justify-content: space-evenly;
+}
+
+.btn1 {
+    width: 33%;
+    height: 30px;
+    border: 3px solid white;
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+    font-size: 50%;
+    justify-content: space-between;
+}
+
+.btn2 {
+    width: 33%;
+    height: 30px;
+    border: 3px solid white;
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+    font-size: 50%;
+    justify-content: space-between;
+}
+
+.btn3 {
+    width: 91px;
+    height: 37px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background: transparent;
+    color: black;
+    font-size: 110%;
+    margin-left: 100px;
+    display: inline-block;
+}
+
+.btn3:hover {
+    color: rgb(249, 241, 249);
+    background-color: darkmagenta;
+}
+
+.btn1:hover {
+    color: mediumvioletred;
+    background-color: white;
+}
+
+.btn2:hover {
+    color: mediumvioletred;
+    background-color: white;
+}
+
+.nav {
+    border: 3px solid darkmagenta;
+    background-color: darkmagenta;
+    height: 84px;
+    width: 100%;
+    display: flex;
+    font-size: 210%;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-right: 5px;
+}
+
+.icon-bar .material-icons {
+    color: white;
+    font-size: 36px;
+    padding-left: 15px;
+}
+
+.icon-bar .material-icons:hover {
+    color: silver;
+}
+
+.def:hover {
+    color: silver;
+}
+
+.def {
+    color: aliceblue;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.h1 {
+    text-align: center;
+    /* border: 3px solid rgba(9, 9, 9, 0.893); */
+    width: 927px;
+    height: 100px;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
+.h2 {
+    text-align: center;
+    color: purple;
+    font-size: 50px;
+    border: 2px;
+    background-color: silver;
+    width: 458px;
+    height: 31px;
+    margin-left: 39%;
+    margin-top: 10%;
+}
+
+a:hover {
+    color: black;
+}
